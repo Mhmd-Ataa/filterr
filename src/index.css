@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(97, 97, 79) !important;
+}
+
+
+@media (max-width:450px) {
+    .sildbar-container{
+        width:30%;
+        padding-left: 12px;
+    }
+    
+    .sidebarTitle{
+        margin-bottom: 40px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .sildbar-container label{
+        font-size: 12px ;
+       
+    }
+     
+    nav{
+        margin-left: 7rem;
+    }
+    .NavIcons .icon{
+        margin-left: 0px;
+        font-size: 12px;
+    }
+    nav input{
+        width: 150px;
+        font-size: 12px;
+    }
+    .card-container{
+        margin-left: 8rem;
+    }
+    .card{
+        min-width: 350px;
+    }
+    .Recommends{
+        margin-left: 9rem;
+    }
+    .recommends-title h2{
+        font-size: 20px !important;
+
+    }
+    .btns{
+        padding: 4px 10px;
+        margin-bottom: 7px;
+    }
+    
+}

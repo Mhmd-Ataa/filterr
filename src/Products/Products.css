@@ -1,0 +1,33 @@
+.card-container{
+    margin-left: 20rem;
+    margin-top: 2rem;
+    z-index: -2;
+}
+.card{
+    margin: 20px;
+    
+    border: 2px solid #ededed;
+    padding: 20px;
+    cursor: pointer;
+    /*  */
+    width: 250px;
+    /*  */
+}
+.card-img{
+    width: 13rem !important;
+    margin-bottom: 1rem;
+    height: 120px;
+}
+.cardTitle{
+    margin-bottom: 1rem;
+}
+.card-review{
+    margin-bottom: 1rem;
+}
+.rating{
+    color: #d5ab55;
+}
+.total-price{
+    font-size: .9rem;
+    margin-left: 10px;
+}

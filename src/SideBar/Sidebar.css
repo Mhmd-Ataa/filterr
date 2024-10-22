@@ -1,0 +1,15 @@
+.sildbar-container{
+    position: fixed;
+    top: 0;
+    width: 15%;
+    height: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-right: solid 2px #e5e5e5;
+    z-index: 53;
+    overflow-y: scroll;
+
+}
+.logo i{
+    font-size: 2rem;
+}

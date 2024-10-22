@@ -1,0 +1,20 @@
+.Recommends{
+    margin-left: 20rem;
+    margin-top: 20px;
+}
+.recommends-title{
+    font-size: 20px;
+    font-family: sans-serif;
+
+
+}
+.btns{
+    padding: 10px 20px;
+    background: transparent;
+    border: none;
+    border: solid .6px #ccc ;
+    border-radius: 5px ;
+    color: #323232;
+    cursor: pointer;
+    margin-right: 10px;
+}
